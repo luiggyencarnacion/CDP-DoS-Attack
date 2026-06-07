@@ -48,7 +48,7 @@ Demostrar cómo un atacante posicionado en la misma red de Capa 2 puede explotar
 
 ## 🧩 Objetivo del Script
 
-El script `cdp_dos.py` genera y envía de forma masiva y paralela paquetes CDP falsificados hacia la dirección multicast `01:00:0c:cc:cc:cc`. Cada paquete contiene un `Device ID`, plataforma y versión de IOS aleatorios, haciendo que el dispositivo objetivo registre cada paquete como un vecino distinto hasta agotar la capacidad de su tabla CDP.
+El script `cdp_dos_attack.py` genera y envía de forma masiva y paralela paquetes CDP falsificados hacia la dirección multicast `01:00:0c:cc:cc:cc`. Cada paquete contiene un `Device ID`, plataforma y versión de IOS aleatorios, haciendo que el dispositivo objetivo registre cada paquete como un vecino distinto hasta agotar la capacidad de su tabla CDP.
 
 ### Parámetros Usados
 
@@ -191,7 +191,7 @@ Cada MAC de origen única + Device ID único → el switch registra una nueva en
 ## 🚀 Uso y Ejecución
 
 ```bash
-sudo python3 cdp_dos.py
+sudo python3 cdp_dos_attack.py
 ```
 
 **Interacción esperada:**

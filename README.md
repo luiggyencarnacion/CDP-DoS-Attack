@@ -76,7 +76,7 @@ El script `cdp_dos_attack.py` genera y envía de forma masiva y paralela paquete
 ```bash
 # 1. Clonar el repositorio
 git clone https://github.com/luiggyencarnacion/CDP-DoS-Attack.git
-cd cdp-dos-attack
+cd CDP-DoS-Attack
 
 # 2. Crear entorno virtual
 python3 -m venv venv
@@ -110,7 +110,7 @@ scapy>=2.5.0
                     │  SW-1   │  ← Objetivo del ataque CDP
                     └──┬───┬──┘
                Gig0/2  │   │  Gig0/1
-              ┌─────────┘   └──────────┐
+              ┌────────┘   └───────────┐
          ┌────┴──────┐            ┌────┴────┐
          │KaliLinux-1│            │   PC1   │
          │ Atacante  │            │ Víctima │

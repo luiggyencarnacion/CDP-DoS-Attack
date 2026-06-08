@@ -29,7 +29,7 @@
 
 1. [Objetivo del Laboratorio](#-objetivo-del-laboratorio)
 2. [Objetivo del Script](#-objetivo-del-script)
-3. [Requisitos](#-requisitos)
+3. [Requisitos](#-requisitos-para-utilizar-la-herramienta)
 4. [Instalación](#-instalación)
 5. [Documentación de la Red](#-documentación-de-la-red)
 6. [Funcionamiento del Script](#-funcionamiento-del-script)
@@ -75,7 +75,7 @@ El script `cdp_dos_attack.py` genera y envía de forma masiva y paralela paquete
 
 ```bash
 # 1. Clonar el repositorio
-git clone https://github.com/<tu-usuario>/cdp-dos-attack.git
+git clone https://github.com/luiggyencarnacion/CDP-DoS-Attack.git
 cd cdp-dos-attack
 
 # 2. Crear entorno virtual

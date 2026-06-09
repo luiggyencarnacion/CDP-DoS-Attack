@@ -274,15 +274,6 @@ evidencias/
 ## 🎬 Video de Demostración
 
 > 📺 **[Ver demostración en YouTube →](https://youtu.be/iSnmOQYDf_E?si=jYIY0wwXAigdCu2D)**
-
-- ✅ Topología en GNS3 con nombre **Luiggy Encarnación** y matrícula **2025-0663**
-- ✅ Hora y fecha del sistema visibles
-- ✅ Cara y voz del autor
-- ✅ Ejecución del ataque con estadísticas en tiempo real
-- ✅ Verificación del impacto en el switch
-- ✅ Aplicación y verificación de la contramedida
-- ⏱️ Duración máxima: 5 minutos
-
 ---
 
 <div align="center">

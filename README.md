@@ -117,9 +117,9 @@ scapy>=2.5.0
          │ 10.6.63.13  │          │ 10.6.63.50 │
          └─────────────┘          └────────────┘
                e0                      e0
+```
 
 ![Topología GNS3](images/01_topologia_gns3.png)
-```
 
 ### Tabla de Direccionamiento
 

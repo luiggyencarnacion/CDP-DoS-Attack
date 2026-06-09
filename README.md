@@ -137,7 +137,7 @@ scapy>=2.5.0
 | Parámetro | Valor |
 |---|---|
 | Red | 10.6.63.0/24 |
-| Simulador | GNS3 |
+| Emulador | GNS3 |
 | Plataforma atacante | Kali Linux |
 | Dispositivos Cisco | IOU (IOS on Unix) |
 | VLANs | VLAN 1 (default) |
